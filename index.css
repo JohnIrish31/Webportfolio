@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+nav *{
+	font-family: "jost", sans-serif !important;
+	color: white !important;
+}
+
+nav{
+	background-color: #272121;
+}
+
+.background{
+	min-height: 70vh;
+	background-color: gray;
+	background-image: url("https://media.istockphoto.com/id/1352813842/photo/abstract-digital-wave-blue-circular-shape-on-the-background-futuristic-point-form-big-data.jpg?s=612x612&w=0&k=20&c=llInJK828GK3wL44JmJXDb2fComny8W3gMhJiIOMLUY=");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+
+
+
